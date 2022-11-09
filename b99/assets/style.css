@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Bebas+Neue&family=PT+Serif&display=swap');
+
+.historia{
+    font-family:'Bebas Neue', cursive;
+    font-size: 70px;
+    color:#040C23 ;
+}
+
+.conteudo{
+    font-family: 'PT Serif', serif;
+    font-size: 30px;
+    font-weight: 200;
+}
